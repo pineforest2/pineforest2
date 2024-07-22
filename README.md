@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pineforest2.
 - 👀 interest: void
-- 🌱 learning: All things in the world are learned, and all relationships between people are learned.
+- 🌱 learning: All things in the world are learned, and all relationships between people are articles.
 
 Because the commits of some repositories are useless, I will regularly clean them up.
 
